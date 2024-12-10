@@ -11,7 +11,7 @@
 ### Generate randomly selected collage of edited images
 I implemented all my image filters into one grater collage.
 
-![collage](https://github.com/tadahiroueta/astro-pop/image3.jpg)
+![collage](https://github.com/tadahiroueta/astro-pop/blob/main/image3.jpg)
 
 ### Fetching with NASA's Astronomy Picture of the Day API
 The program sends a request to NASA's servers according to the user's input.
@@ -25,22 +25,22 @@ Query: earth sky
 Hard programmed image filters including...
 
 #### Grayscale
-![grayscale](https://github.com/tadahiroueta/astro-pop/filter-images/grayscale.jpg)
+![grayscale](https://github.com/tadahiroueta/astro-pop/blob/main/filter-images/grayscale.jpg)
 
 #### Sepia
-![sepia](https://github.com/tadahiroueta/astro-pop/filter-images/sepia.jpg)
+![sepia](https://github.com/tadahiroueta/astro-pop/blob/main/filter-images/sepia.jpg)
 
 #### Blur
-![blur](https://github.com/tadahiroueta/astro-pop/filter-images/blur.jpg)
+![blur](https://github.com/tadahiroueta/astro-pop/blob/main/filter-images/blur.jpg)
 
 #### Colour filter
-![colour](https://github.com/tadahiroueta/astro-pop/filter-images/red.jpg)
+![colour](https://github.com/tadahiroueta/astro-pop/blob/main/filter-images/red.jpg)
 
 #### Invert
-![invert](https://github.com/tadahiroueta/astro-pop/filter-images/flip.jpg)
+![invert](https://github.com/tadahiroueta/astro-pop/blob/main/filter-images/flip.jpg)
 
 #### Greenscreen
-![greenscreen](https://github.com/tadahiroueta/astro-pop/filter-images/greenscreen.jpg)
+![greenscreen](https://github.com/tadahiroueta/astro-pop/blob/main/filter-images/greenscreen.jpg)
 
 ## Installation
 
